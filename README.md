@@ -28,6 +28,12 @@ npm install
 
 #### src/sass/awesome.scss 를 확인합니다.
 
+```
+src
+ └─ sass
+     └─ awesome.scss
+```
+
 &nbsp;
 
 #### gulp로 task를 실행시킵니다.
@@ -38,7 +44,11 @@ gulp buildStyles
 
 #### 프로젝트의 dist/css 폴더에서 트랜스컴파일 된 css 파일을 확인합니다.
 
----
+```
+dist
+ └─ css
+     └─ awesome.css
+```
 
 #### 참고
 
