@@ -48,6 +48,8 @@ dist
      └─ awesome.css
 ```
 
+---
+
 #### 참고
 
 - [gulp.js](https://gulpjs.com/docs/en/getting-started/quick-start)
