@@ -14,23 +14,17 @@ node -v
 npm install --global gulp-cli
 ```
 
-&nbsp;
-
 #### 해당 repository 를 클론 또는 다운로드 합니다.
 
 ```bash
 git clone <project>
 ```
 
-&nbsp;
-
 #### 인스톨 합니다.
 
 ```bash
 npm install
 ```
-
-&nbsp;
 
 #### src/sass/awesome.scss 를 확인합니다.
 
@@ -40,15 +34,11 @@ src
      └─ awesome.scss
 ```
 
-&nbsp;
-
 #### gulp로 task를 실행시킵니다.
 
 ```bash
 gulp buildStyles
 ```
-
-&nbsp;
 
 #### 프로젝트의 dist/css 폴더에서 트랜스컴파일 된 css 파일을 확인합니다.
 
